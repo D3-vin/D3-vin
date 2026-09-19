@@ -4,7 +4,12 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40D3__vin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/D3_vin)
 [![Site](https://img.shields.io/badge/site-d3vin.in-4A90D9?style=for-the-badge)](https://d3vin.in)
-[![Stars](https://img.shields.io/badge/total%20stars-★%20570%2B-FFAC33?style=for-the-badge)](https://github.com/D3-vin?tab=repositories)
+
+<p align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=D3-vin&style=flat&color=blue" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/D3-vin?label=Followers&style=social" />
+  <img alt="Total stars" src="https://img.shields.io/github/stars/D3-vin?label=Total%20Stars&style=social" />
+</p>
 
 *Backend & network services · API integrations · automation · cross-platform tooling*
 
@@ -40,8 +45,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=D3-vin&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&v=2" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3-vin&layout=compact&hide_border=true&langs_count=8&v=2" alt="langs" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=D3-vin&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=D3-vin&layout=compact&hide_border=true&langs_count=8" alt="langs" />
   <br/>
   <img height="150" src="https://streak-stats.demolab.com?user=D3-vin&hide_border=true&hide_longest_streak=true" alt="streak" />
 </p>
