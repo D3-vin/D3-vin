@@ -33,7 +33,7 @@
 ### 🛠 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,windows,sqlite,html,js" alt="Skills" /><img src="assets/playwright.svg?v=2" width="56" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,windows,sqlite,postgres,html,js" alt="Skills" /><img src="assets/playwright.svg?v=2" width="56" alt="Playwright" />
 </p>
 
 - **Languages:** Python (primary) · Go (Golang) (primary) · JavaScript / HTML / CSS — webview UI, dashboards, Chrome extensions
