@@ -40,8 +40,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=D3-vin&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3-vin&layout=compact&hide_border=true&langs_count=8" alt="langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=D3-vin&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&v=2" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3-vin&layout=compact&hide_border=true&langs_count=8&v=2" alt="langs" />
   <br/>
   <img height="150" src="https://streak-stats.demolab.com?user=D3-vin&hide_border=true&hide_longest_streak=true" alt="streak" />
 </p>
