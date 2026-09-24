@@ -33,14 +33,14 @@
 ### 🛠 Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,windows,sqlite,postgres,html,js" alt="Skills" /><img src="assets/playwright.svg?v=2" width="56" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,windows,sqlite,postgres,redis,html,js" alt="Skills" /><img src="assets/playwright.svg?v=2" width="56" alt="Playwright" />
 </p>
 
 - **Языки:** Python (основной) · Go (Golang) (основной) · JavaScript / HTML / CSS — webview-интерфейсы, дашборды, расширения Chrome
 - **Python:** asyncio, Quart, websockets, requests, urllib3, curl_cffi, Playwright/patchright, Camoufox, OpenCV, NumPy, BeautifulSoup4, PyYAML, psutil, pywin32, pymem, cryptography, imap-tools, PyQt5, pywebview, rich, SQLite, PyInstaller
 - **Go:** net/http, html/template, SSE, fhttp, websocket, tls-client, utls, quic-go (HTTP/3), cobra, pterm, modernc.org/sqlite, godotenv, playwright-go
 - **Сети:** HTTP/1.1 → HTTP/3 (QUIC), REST, SSE, WebSocket, IMAP, SOCKS5, TLS-фингерпринты
-- **Практики:** конкурентность (asyncio, goroutines), пулы соединений и ротация, retry/failover, протокольные адаптеры, слоистая структура, кросс-компиляция single-binary (Linux / Windows / macOS)
+- **Практики:** конкурентность (asyncio, goroutines), пулы соединений и ротация, кэширование (Redis), retry/failover, протокольные адаптеры, слоистая структура, кросс-компиляция single-binary (Linux / Windows / macOS)
 
 ### 📊 Статистика
 

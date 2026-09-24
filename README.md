@@ -33,14 +33,14 @@
 ### 🛠 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,windows,sqlite,postgres,html,js" alt="Skills" /><img src="assets/playwright.svg?v=2" width="56" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,windows,sqlite,postgres,redis,html,js" alt="Skills" /><img src="assets/playwright.svg?v=2" width="56" alt="Playwright" />
 </p>
 
 - **Languages:** Python (primary) · Go (Golang) (primary) · JavaScript / HTML / CSS — webview UI, dashboards, Chrome extensions
 - **Python:** asyncio, Quart, websockets, requests, urllib3, curl_cffi, Playwright/patchright, Camoufox, OpenCV, NumPy, BeautifulSoup4, PyYAML, psutil, pywin32, pymem, cryptography, imap-tools, PyQt5, pywebview, rich, SQLite, PyInstaller
 - **Go:** net/http, html/template, SSE, fhttp, websocket, tls-client, utls, quic-go (HTTP/3), cobra, pterm, modernc.org/sqlite, godotenv, playwright-go
 - **Networking:** HTTP/1.1 → HTTP/3 (QUIC), REST, SSE, WebSocket, IMAP, SOCKS5, TLS fingerprinting
-- **Practices:** concurrency (asyncio, goroutines), connection pools & rotation, retry/failover, protocol adapters, layered layout, single-binary cross-compilation (Linux / Windows / macOS)
+- **Practices:** concurrency (asyncio, goroutines), connection pools & rotation, caching (Redis), retry/failover, protocol adapters, layered layout, single-binary cross-compilation (Linux / Windows / macOS)
 
 ### 📊 GitHub stats
 
